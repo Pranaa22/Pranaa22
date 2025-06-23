@@ -5,8 +5,8 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/Pranaa22">Pranaja Widyadhana Wardana</a> 👋</h1>
 <p align="center">
-  Welcome to my GitHub profile! I'm passionate about programming and enjoy solving problems using Python and C++.<br>
-  Currently, I serve as a Computer Lab Assistant, helping students with technical and programming tasks.
+  Welcome to my GitHub profile! I'm passionate about programming and enjoy solving problems .<br>
+
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
